@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(196, 196, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titre
+{
+    text-align: center;
+    font-size: 50px;
+}
+li
+{
+    color: black;
+}
